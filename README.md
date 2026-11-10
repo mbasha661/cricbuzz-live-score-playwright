@@ -50,5 +50,5 @@ saved score.png
 
 - Cricbuzz changes its markup now and then. If the selector stops matching, inspect the
   page again and update `CARD`.
-- `score.png` is the card for the match printed in the terminal (captured on a run
-  where Pakistan vs Sri Lanka, 1st Test was showing LIVE).
+- `score.png` is created in the folder you run the script from (it is not stored in this repo).
+  It is a screenshot of the match card whose text is printed in the terminal.
